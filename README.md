@@ -1,5 +1,5 @@
 # Storyblok Astro Bug
 
-Used for reproducing an issue in @storyblok/astro
+Following an issue with @storyblok/astro
 
-(Steps to reproduce coming soon)
+[Missing "./components/StoryblokComponent.astro" specifier in "@storyblok/astro" package #637](https://github.com/storyblok/storyblok-astro/issues/637#issue-2095019455)
